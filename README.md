@@ -1,4 +1,4 @@
-![logo](https://github.com/AviralMi/AviralMi/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/AviralMi/AviralMi/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Aviral Mishra</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
